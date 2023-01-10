@@ -1,0 +1,74 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 400;
+    src: local("OpenSans-Regular"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/OpenSans-Regular.ttf) format("ttf"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/OpenSans-Regular.woff) format("woff"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/OpenSans-Regular.woff2) format("woff2")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Open Sans";
+    font-style: italic;
+    font-weight: 400;
+    src: local("OpenSans-Italic"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/OpenSans-Italic.ttf) format("ttf"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/OpenSans-Italic.woff) format("woff"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/OpenSans-Italic.woff2) format("woff2")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 500;
+    src: local("OpenSans-Medium"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/OpenSans-Medium.ttf) format("ttf"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/OpenSans-Medium.woff) format("woff"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/OpenSans-Medium.woff2) format("woff2")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: "Open Sans";
+    font-style: italic;
+    font-weight: 500;
+    src: local("OpenSans-MediumItalic"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/OpenSans-MediumItalic.ttf) format("ttf"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/OpenSans-MediumItalic.woff) format("woff"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/OpenSans-MediumItalic.woff2) format("woff2")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    src: local("Poppins-Regular"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/Poppins-Regular.ttf) format("ttf"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/Poppins-Regular.woff) format("woff"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/Poppins-Regular.woff2) format("woff2")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: Poppins;
+    font-style: italic;
+    font-weight: 400;
+    src: local("Poppins-Italic"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/Poppins-Italic.ttf) format("ttf"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/Poppins-Italic.woff) format("woff"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/Poppins-Italic.woff2) format("woff2")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    src: local("Poppins-Medium"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/Poppins-Medium.ttf) format("ttf"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/Poppins-Medium.woff) format("woff"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/Poppins-Medium.woff2) format("woff2")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 700;
+    src: local("Poppins-Bold"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/Poppins-Bold.ttf) format("ttf"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/Poppins-Bold.woff) format("woff"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/Poppins-Bold.woff2) format("woff2")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 800;
+    src: local("Poppins-ExtraBold"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/Poppins-ExtraBold.ttf) format("ttf"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/Poppins-ExtraBold.woff) format("woff"), url(https://3339696.fs1.hubspotusercontent-na1.net/hubfs/3339696/Fonts/local-fonts/Poppins-ExtraBold.woff2) format("woff2")
+}

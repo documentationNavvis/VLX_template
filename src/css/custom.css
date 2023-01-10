@@ -1,0 +1,61 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* Docusaurus */
+@import "modules/typography.css";
+@import "modules/colors.css";
+@import "modules/right-toc.css";
+@import "modules/search.css";
+
+/* DITA/Central Content Area */
+@import "modules/lists.css";
+@import "modules/codeblocks.css";
+@import "modules/menucascades.css";
+@import "modules/note.css";
+@import "modules/uicontrol.css";
+@import "modules/wintitle.css";
+@import "modules/filepath.css";
+@import "modules/cause_condition_context_example_postreq_prereq_remedy_result_steps_stepsection.css";
+@import "modules/choices_info_stepresult_stepexample_solution_substeps_troublesolution.css";
+@import "modules/step_substep_numbering.css";
+@import "modules/hide_empty_elements.css";
+
+/* Backward-compatibility */
+@import "modules/legacy_code.css";
+
+/* Fixes */
+
+/* Remove navbar title on the right of the logo */
+.navbar__title {
+    display: none; /* uncomment once deployed to eD */
+    color: rgb(240,239,242);
+}
+
+/* Spacing between the top bar and heading fix */
+.markdown {
+    --ifm-h1-vertical-rhythm-top: 0; 
+}
+
+/* Fix troublebody */
+div.troubleSolution {
+    padding-left: 0;
+}
+
+/* Fix issues with choicetables */
+table {
+    border: none;
+}
+
+/* Fix anchors position */
+.anchor_top_offset::before {
+    top: calc(var(--ifm-navbar-height) * -1);
+    content: '';
+    display: block;
+    height: calc(var(--ifm-navbar-height));
+    margin-top: calc(var(--ifm-navbar-height) * -1);
+    visibility: hidden;
+}
