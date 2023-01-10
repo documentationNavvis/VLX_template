@@ -12,15 +12,9 @@ module.exports = {
     navbar: {
       title: "NavVis VLX Documentation",
       logo: {
-        alt: "NavVis VLX Documentation",
-        src: "img/navvis-logo-vlx.svg",
+        alt: "NavVis VLV Documentation",
+        src: "img/navvis-logo-vlx1.svg",
       },
-      items: [
-        {
-          type: "docsVersionDropdown",
-          position: "left",
-        }
-       ]
     },
     docs: {
       sidebar: {
