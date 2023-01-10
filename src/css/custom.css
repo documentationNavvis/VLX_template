@@ -31,7 +31,7 @@
 
 /* Remove navbar title on the right of the logo */
 .navbar__title {
-    display: VLX; /* uncomment once deployed to eD */
+    display: none; /* uncomment once deployed to eD */
     color: rgb(240,239,242);
 }
 
