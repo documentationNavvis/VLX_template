@@ -13,14 +13,9 @@ module.exports = {
       title: "NavVis VLX Documentation",
       logo: {
         alt: "NavVis VLX Documentation",
-        src: "img/navvis-logo-new.svg",
+        src: "img/IVION-Logo-negative.svg",
       },
-      items: [
-        {
-          type: "docsVersionDropdown",
-          position: "left",
-        }
-       ]
+     
     },
     docs: {
       sidebar: {
