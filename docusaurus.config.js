@@ -13,7 +13,7 @@ module.exports = {
       title: "NavVis VLX Documentation",
       logo: {
         alt: "Home",
-        src: "img/VLX2.svg",
+        src: "img/VLX3.svg",
       },
      
     },
