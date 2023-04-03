@@ -14,6 +14,8 @@ module.exports = {
       logo: {
         alt: "Home",
         src: "img/navvis-logo-new.svg",
+	 src: "img/VLX7.svg",
+
       },
      
     },
