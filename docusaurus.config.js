@@ -12,8 +12,8 @@ module.exports = {
     navbar: {
       title: "NavVis VLX Documentation",
       logo: {
-        alt: "NavVis VLX Documentation",
-        src: "img/IVION-VLX-guide.svg",
+        alt: "Home",
+        src: "img/VLX-guide.svg",
       },
      
     },
