@@ -10,11 +10,10 @@ module.exports = {
   projectName: "navvis-docusaurus-template",
   themeConfig: {
     navbar: {
-      title: "NavVis VLX Documentation",
+      title: "NavVis IVION",
       logo: {
-        alt: "Home",
-	 src: "img/IVION-Logo-negative1.svg",
-
+        alt: "NavVis VLX Documentation",
+        src: "img/IVION-Logo-negative.svg",
       },
      
     },
