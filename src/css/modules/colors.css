@@ -5,12 +5,16 @@
     --ifm-color-primary: rgb(25,121,228); /* Primary, left TOC inactive links */
 
 
+/* HAZARD NOTICES */
+
+#reference-7294 p {
+    margin-bottom: 6px;    
 }
 
 .hazardstatement {
     width: 100%;
     padding: 0px;
-    border: cmyk(0,0,0,0.93) 0.5pt solid;
+    border: #353436 0.5pt solid;
     border-radius: 5px;
     margin-top: 0px;
 }
@@ -23,7 +27,7 @@ div.hazardstatement {
 div.hazardstatement span.note__title {
     display: block;
     width: 100%;
-    border-bottom: cmyk(0,0,0,0.93) 0.5pt solid;
+    border-bottom: #353436 0.5pt solid;
     padding-top: 3px;
     padding-bottom: 3px;
     font-weight: 600 !important;
@@ -47,7 +51,7 @@ span.hazard_symbol br {
     margin-left: 36px;
     margin-top: 0px;
     margin-bottom: 0px;
-    border-left: cmyk(0,0,0,0.93) 0.5pt solid;
+    border-left: #353436 0.5pt solid;
     padding: 5px;
 }
 
@@ -67,17 +71,17 @@ li.howtoavoid {
 }
 
 .attention .note__title {
-    background-color: #E8F2FD;
+    background-color: #e8f2fd;
     border-radius: 5px 5px 0px 0px;
 }
 
 .caution .note__title {
-    background-color: #FFFAE7;
+    background-color: #fffae7;
     border-radius: 5px 5px 0px 0px;
 }
 
 .warning .note__title{
-    background-color: #FEE6EC;
+    background-color: #fee6ec;
     border-radius: 5px 5px 0px 0px;
 }
 
