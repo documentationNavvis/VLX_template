@@ -19,7 +19,7 @@ div.note {
   font-size: 1rem;
 }
 div.note > span.note__title {
-  display: contents;
+  display: table;
   color: #f5f6f7;
   font-weight: bold;
   font-size: 0.88rem;
